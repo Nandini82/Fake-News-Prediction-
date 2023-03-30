@@ -4,8 +4,7 @@ This repository contains the code for a machine learning project that predicts w
 
 ## Dataset
 
-The dataset used in this project is the [Fake and Real News Dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) from Kaggle. This dataset contains a total of 44898 news articles, with 23481 real news articles and 21417 fake news articles.
-
+The dataset used in this project is the [Fake and Real News Dataset](https://www.kaggle.com/competitions/fake-news/data) from Kaggle. 
 ## Data Preprocessing
 
 Before training the machine learning model, the data goes through a preprocessing stage, which includes the following steps:
